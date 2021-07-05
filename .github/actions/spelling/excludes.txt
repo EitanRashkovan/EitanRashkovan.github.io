@@ -15,5 +15,5 @@ ignore$
 \.png$
 \.wav$
 ^\.github/
-^index\.md$
+index.md
 
